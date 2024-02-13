@@ -1,0 +1,23 @@
+.body-font{
+    min-height: 100vh;
+    background:;
+    background-image: url(../img/tea2.jpg) !important;
+    background-color: transparent !important;
+    background-position: center;
+    background-size: cover;
+}
+.bar-font{
+    background-color: #beccd5  !important;
+}
+#header{
+    transition: top 0.3s;
+}
+.header-hidden {
+    top: -100px; /* Changer la valeur selon la hauteur de votre header */
+}
+.sidebar{
+    transition: top ;
+}
+.sidebar-moov{
+    top: 0px !important;
+}
